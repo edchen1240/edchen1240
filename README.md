@@ -53,13 +53,6 @@ Broader posts (career, life in the US, bilingual) → [edchen1240.com](https://e
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=edchen1240&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edchen1240&layout=compact&theme=default&hide_border=true" height="160" />
-</p>
-
 ---
 
 *Open to Summer 2026 research internships and early-stage startup roles in ML for science, engineering, or music tech.*
