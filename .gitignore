@@ -1,0 +1,12 @@
+#[1] Local-only launchers. Machine-specific .bat shortcuts carrying absolute local paths.
+#    This repository is PUBLIC by nature - it is the GitHub profile repo, and its README
+#    renders at github.com/edchen1240 - so nothing machine-specific belongs in it.
+#    Square brackets are a glob character class, so they MUST be escaped: an unescaped
+#    [G] matches a file named "G_..." that has never existed, and the rule then silently
+#    protects nothing. Written as a glob so a later rename cannot break it.
+\[*\]_*.bat
+
+#[2] OS clutter.
+.DS_Store
+Thumbs.db
+Desktop.ini
