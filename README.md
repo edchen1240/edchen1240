@@ -53,7 +53,6 @@ Broader posts (career, life in the US, bilingual) → [edchen1240.com](https://e
 
 ---
 
----
 
 *Open to Summer 2026 research internships and early-stage startup roles in ML for science, engineering, or music tech.*
 
